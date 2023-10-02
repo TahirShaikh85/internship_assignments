@@ -205,7 +205,7 @@
     "transmissionType": "Automatic",
     "costPerKilometer": 7,
     "rentPerMonth": 543,
-    "imageUrl": "./thumbnail.png"
+    "imageUrl": "/thumbnail.png"
   },
   {
     "id": 20,
