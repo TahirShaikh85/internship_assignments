@@ -3,7 +3,7 @@ import React from 'react'
 const CarCard = ({car}) => {
     return (
             // {/* <!-- card 1 --> */}
-            <div className="py-4 max-w-sm">
+            <div className="py-4" style={{maxWidth:"23rem"}}>
                 <div className="max-w-sm bg-transparent border-2 border-white rounded-2xl shadow-md dark:bg-gray-800 dark:border-gray-700">
                     {/* image */}
                     <div className='car-image p-2'>

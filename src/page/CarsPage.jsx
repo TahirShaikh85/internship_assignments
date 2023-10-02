@@ -1,35 +1,68 @@
-import React, { useState, useEffect } from "react";
-import carsData from "../assets/carData.json";
+import React, { useEffect } from "react";
 import CardList from "../components/CarList";
 import Pagination from "../components/Pagination";
-import { useParams } from 'react-router-dom';
+import { useDispatch, useSelector } from "react-redux";
+import { useParams } from "react-router-dom";
+import {
+  filterCars,
+  selectFilteredCars,
+  selectCurrentPage,
+  setCurrentPage,
+  selectSearchQuery,
+} from "../app/carSlice";
 
 const CarsPage = () => {
-    const { page } = useParams();
-  const [currentPage, setCurrentPage] = useState(Number(page) || 1);
+  const { page } = useParams();
+
   const totalPages = 10;
   const carsPerPage = 6;
 
+  const filteredCars = useSelector(selectFilteredCars);
+  const currentPage = useSelector(selectCurrentPage);
+  const searchQuery = useSelector(selectSearchQuery);
+  const dispatch = useDispatch();
+
   useEffect(() => {
-    setCurrentPage(Number(page) || 1);
+    dispatch(filterCars());
+  }, [dispatch]);
+
+  useEffect(() => {
+    dispatch(setCurrentPage(Number(page) || 1));
   }, [page]);
 
   const indexOfLastCar = currentPage * carsPerPage;
   const indexOfFirstCar = indexOfLastCar - carsPerPage;
-  const currentCars = carsData.slice(indexOfFirstCar, indexOfLastCar);
+  const currentCars = filteredCars.slice(indexOfFirstCar, indexOfLastCar);
 
   const handlePageChange = (pageNumber) => {
-    setCurrentPage(pageNumber);
+    dispatch(setCurrentPage(pageNumber));
   };
 
   return (
     <>
+      {searchQuery.length >= 3 && (
+        <div>
+          <span>
+            <b className="mr-2">Showing results: </b>
+            {searchQuery}
+          </span>{" "}
+          <br />
+          <span>
+            {filteredCars.length > 0
+              ? filteredCars.length + " Found"
+              : "No Cars Found"}
+          </span>
+        </div>
+      )}
       <CardList cars={currentCars} />
-      <Pagination
-        currentPage={currentPage}
-        totalPages={totalPages}
-        onPageChange={handlePageChange}
-      />
+      
+      {filteredCars.length > 6 && (
+        <Pagination
+          currentPage={currentPage}
+          totalPages={totalPages}
+          onPageChange={handlePageChange}
+        />
+      )}
     </>
   );
 };

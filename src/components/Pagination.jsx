@@ -9,10 +9,10 @@ const Pagination = ({ currentPage, totalPages, onPageChange }) => {
   return (
     <nav className="relative my-6 flex flex-wrap items-center justify-between px-2 py-3 gap-x-4 shadow-md border-none rounded-xl">
       <div className="container px-4 mx-auto flex flex-wrap items-center justify-end gap-x-8 ">
-        <span className="mr-20">
+        <span className="mr-20 font-bold">
           Assignment Submitted By -{" "}
-          <Link className="text-blue-400" href="tel:9579267386">
-            Tahir Shaikh
+          <Link className="text-blue-400 font-normal" href="tel:9579267386">
+            Tahir Shaikh ❤
           </Link>
         </span>
         <div className="current-page-info">{currentPage} of 10</div>
