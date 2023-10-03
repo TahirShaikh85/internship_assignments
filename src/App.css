@@ -50,12 +50,13 @@ body {
 .property-card-container {
     width: 1100px;
     margin: 40px auto;
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
     justify-content: space-between;
 }
 
 .property-card-container .box {
-    width: calc((100% / 3) - 20px);
     background-color: white;
     position: relative;
     border-radius: 10px;
@@ -155,8 +156,12 @@ body {
 }
 
 .property-card-container .box .bottom {
-    padding: 20px 15px;
+    padding: 20px;
     position: relative;
+}
+.property-card-container .box .bottom .location{
+    display: flex;
+    justify-content: space-between;
 }
 .property-card-container .box .bottom h6{
     margin-bottom: 10px;
@@ -186,6 +191,9 @@ body {
 
 .property-card-container .box .bottom h3 {
     font-size: 15px;
+    padding: 18px 0;
+    line-height: 1.4rem;
+    font-family: 'Poppins', sans-serif;
 }
 
 .property-card-container .box .bottom>p {
@@ -198,7 +206,7 @@ body {
 .property-card-container .box .bottom .advants {
     display: flex;
     justify-content: space-between;
-    margin: 0 1.2rem;
+    margin: 0 .8rem;
 }
 
 .property-card-container .box .bottom .advants>div {
@@ -239,7 +247,7 @@ body {
 .property-card-container .box .bottom .price {
     display: flex;
     justify-content: space-between;
-    margin: 10px 15px;
+    margin: 10px 10px;
     margin-top: 30px;
 }
 .property-card-container .box .bottom .price-rent {
@@ -265,4 +273,30 @@ body {
     margin: 0 5px;
     cursor: pointer;
     border: 1px solid var(--active-tab-color);
+}
+.property-list {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically */
+  }
+.property-list .showMore-btn{
+    padding: 14px 17px;
+    border-radius: 23px;
+    background: var(--active-tab-color);
+    margin: 0 5px;
+    cursor: pointer;
+    margin-bottom: 5rem;
+    outline: none;
+    border: none;
+    color: #fff;
+    transition: .5s;
+}
+.property-list .showMore-btn:hover{
+    background: transparent;
+    color:var(--active-tab-color);
+    border: 2px solid var(--active-tab-color);
+}
+.property-list .showMore-btn i{
+    margin-right: 5px;
 }

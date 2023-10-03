@@ -1,239 +1,239 @@
 [
     {
       "id": "1",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "purpose": "For Rent",
       "tag": "popular",
       "city": "London",
-      "street": "385 Reichert Prairie",
-      "address": "Enchanting 1 bedroom, 4 baths home with Quo sequi non ipsam doloribus qui.",
+      "street": "68612 Hackett Road",
+      "address": "Enchanting 5 bedrooms, 1 bath home with Fugiat autem sequi.",
       "features": [
         {
-          "key": "building",
-          "value": 1
+          "key": "room",
+          "value": 3
         },
         {
           "key": "bed",
           "value": 2
         },
         {
-          "key": "bath",
-          "value": 4
+          "key": "bathroom",
+          "value": 1
         },
         {
-          "key": "arrows-alt",
-          "value": 1859
+          "key": "area",
+          "value": 689
         }
       ],
-      "rent": 4824
+      "rent": 4905
     },
     {
       "id": "2",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/31/00/30/vw-beetle-405876__340.jpg",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070__340.jpg",
       "purpose": "For Rent",
       "tag": "popular",
-      "city": "Paris",
-      "street": "0123 Wolf Heights",
-      "address": "Enchanting 4 bedrooms, 1 bath home with Nihil dolorem minus aspernatur dolorem rem odio.",
+      "city": "Mumbai",
+      "street": "93226 Carmelo Squares",
+      "address": "Enchanting 1 bedroom, 1 bath home with Vel dolor aut quis magni quia sit dolorum eum sint.",
       "features": [
         {
-          "key": "building",
-          "value": 1
+          "key": "room",
+          "value": 5
         },
         {
           "key": "bed",
+          "value": 3
+        },
+        {
+          "key": "bathroom",
           "value": 4
         },
         {
-          "key": "bath",
-          "value": 2
-        },
-        {
-          "key": "arrows-alt",
-          "value": 586
+          "key": "area",
+          "value": 616
         }
       ],
-      "rent": 2649
+      "rent": 1987
     },
     {
       "id": "3",
       "imageUrl": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070__340.jpg",
       "purpose": "For Sale",
       "tag": "popular",
-      "city": "Mumbai",
-      "street": "195 Carolina Pines",
-      "address": "Enchanting 1 bedroom, 4 baths home with Enim minus magnam sint quibusdam est reprehenderit ullam qui omnis.",
+      "city": "London",
+      "street": "586 Blanche Roads",
+      "address": "Enchanting 4 bedrooms, 2 baths home with Neque quisquam et vero a consequatur aut.",
       "features": [
         {
-          "key": "building",
+          "key": "room",
           "value": 2
         },
         {
           "key": "bed",
-          "value": 3
+          "value": 2
         },
         {
-          "key": "bath",
-          "value": 3
+          "key": "bathroom",
+          "value": 2
         },
         {
-          "key": "arrows-alt",
-          "value": 1742
+          "key": "area",
+          "value": 807
         }
       ],
-      "rent": 1799
+      "rent": 3825
     },
     {
       "id": "4",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
       "purpose": "For Rent",
       "tag": "popular",
       "city": "New York",
-      "street": "70195 Merle Club",
-      "address": "Enchanting 4 bedrooms, 1 bath home with Eveniet fugit cum ut molestiae ut.",
+      "street": "949 Janessa Overpass",
+      "address": "Enchanting 4 bedrooms, 3 baths home with Dolorem placeat veritatis error quis quia.",
       "features": [
         {
-          "key": "building",
-          "value": 4
+          "key": "room",
+          "value": 1
         },
         {
           "key": "bed",
+          "value": 1
+        },
+        {
+          "key": "bathroom",
           "value": 3
         },
         {
-          "key": "bath",
-          "value": 2
-        },
-        {
-          "key": "arrows-alt",
-          "value": 1901
+          "key": "area",
+          "value": 993
         }
       ],
-      "rent": 3924
+      "rent": 1224
     },
     {
       "id": "5",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "purpose": "For Rent",
       "tag": "popular",
-      "city": "Mumbai",
-      "street": "21389 Heathcote Vista",
-      "address": "Enchanting 3 bedrooms, 2 baths home with In molestiae cumque maiores beatae et saepe perspiciatis.",
+      "city": "Paris",
+      "street": "10165 Witting Locks",
+      "address": "Enchanting 3 bedrooms, 4 baths home with Sed tempora quia et minima alias.",
       "features": [
         {
-          "key": "building",
-          "value": 4
+          "key": "room",
+          "value": 1
         },
         {
           "key": "bed",
-          "value": 3
+          "value": 4
         },
         {
-          "key": "bath",
-          "value": 2
+          "key": "bathroom",
+          "value": 4
         },
         {
-          "key": "arrows-alt",
-          "value": 1061
+          "key": "area",
+          "value": 1772
         }
       ],
-      "rent": 3397
+      "rent": 2203
     },
     {
       "id": "6",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070__340.jpg",
       "purpose": "For Rent",
       "tag": "popular",
-      "city": "London",
-      "street": "4949 Demario Square",
-      "address": "Enchanting 3 bedrooms, 3 baths home with Pariatur quaerat neque dignissimos ea iste.",
+      "city": "Paris",
+      "street": "22577 Barney Mountains",
+      "address": "Enchanting 1 bedroom, 1 bath home with Minus ab facere aperiam delectus corrupti voluptatem delectus tempora.",
       "features": [
         {
-          "key": "building",
-          "value": 2
+          "key": "room",
+          "value": 3
         },
         {
           "key": "bed",
-          "value": 5
+          "value": 2
         },
         {
-          "key": "bath",
-          "value": 4
+          "key": "bathroom",
+          "value": 1
         },
         {
-          "key": "arrows-alt",
-          "value": 1601
+          "key": "area",
+          "value": 1198
         }
       ],
-      "rent": 4385
+      "rent": 2365
     },
     {
       "id": "7",
       "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
       "purpose": "For Sale",
       "tag": "popular",
-      "city": "New York",
-      "street": "9408 Darren Throughway",
-      "address": "Enchanting 3 bedrooms, 3 baths home with Reiciendis natus dolores.",
+      "city": "London",
+      "street": "5096 Kulas Forks",
+      "address": "Enchanting 3 bedrooms, 1 bath home with Aut quod cupiditate aliquam sit qui.",
       "features": [
         {
-          "key": "building",
-          "value": 2
+          "key": "room",
+          "value": 3
         },
         {
           "key": "bed",
+          "value": 3
+        },
+        {
+          "key": "bathroom",
           "value": 2
         },
         {
-          "key": "bath",
-          "value": 4
-        },
-        {
-          "key": "arrows-alt",
-          "value": 552
+          "key": "area",
+          "value": 920
         }
       ],
-      "rent": 1483
+      "rent": 4762
     },
     {
       "id": "8",
       "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Rent",
+      "purpose": "For Sale",
       "tag": "popular",
-      "city": "London",
-      "street": "0141 Mireille Overpass",
-      "address": "Enchanting 4 bedrooms, 1 bath home with Vel at animi laboriosam quaerat.",
+      "city": "Paris",
+      "street": "7541 Hilpert Ferry",
+      "address": "Enchanting 1 bedroom, 4 baths home with Voluptatem neque id tempore non magnam.",
       "features": [
         {
-          "key": "building",
+          "key": "room",
           "value": 4
         },
         {
           "key": "bed",
+          "value": 5
+        },
+        {
+          "key": "bathroom",
           "value": 3
         },
         {
-          "key": "bath",
-          "value": 2
-        },
-        {
-          "key": "arrows-alt",
-          "value": 1776
+          "key": "area",
+          "value": 1100
         }
       ],
-      "rent": 1398
+      "rent": 1480
     },
     {
       "id": "9",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Rent",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "purpose": "For Sale",
       "tag": "popular",
-      "city": "New York",
-      "street": "734 Wolff Terrace",
-      "address": "Enchanting 1 bedroom, 3 baths home with Non doloribus nisi ut delectus porro ex sint consectetur et.",
+      "city": "Paris",
+      "street": "33250 Champlin Tunnel",
+      "address": "Enchanting 2 bedrooms, 2 baths home with Ad est atque inventore.",
       "features": [
         {
-          "key": "building",
+          "key": "room",
           "value": 4
         },
         {
@@ -241,279 +241,195 @@
           "value": 3
         },
         {
-          "key": "bath",
-          "value": 1
+          "key": "bathroom",
+          "value": 3
         },
         {
-          "key": "arrows-alt",
-          "value": 1302
+          "key": "area",
+          "value": 1588
         }
       ],
-      "rent": 4372
+      "rent": 4061
     },
     {
       "id": "10",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
       "purpose": "For Rent",
       "tag": "popular",
-      "city": "Mumbai",
-      "street": "857 Okey Ranch",
-      "address": "Enchanting 4 bedrooms, 4 baths home with Fugiat eveniet quos nihil sapiente maiores.",
-      "features": [
-        {
-          "key": "building",
-          "value": 2
-        },
-        {
-          "key": "bed",
-          "value": 4
-        },
-        {
-          "key": "bath",
-          "value": 4
-        },
-        {
-          "key": "arrows-alt",
-          "value": 522
-        }
-      ],
-      "rent": 3379
-    },
-    {
-      "id": "11",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
-      "tag": "popular",
-      "city": "Mumbai",
-      "street": "25486 Howell Fort",
-      "address": "Enchanting 3 bedrooms, 2 baths home with Voluptates error eos.",
-      "features": [
-        {
-          "key": "building",
-          "value": 4
-        },
-        {
-          "key": "bed",
-          "value": 3
-        },
-        {
-          "key": "bath",
-          "value": 1
-        },
-        {
-          "key": "arrows-alt",
-          "value": 560
-        }
-      ],
-      "rent": 2586
-    },
-    {
-      "id": "12",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
-      "tag": "popular",
       "city": "New York",
-      "street": "59688 Deangelo Isle",
-      "address": "Enchanting 3 bedrooms, 3 baths home with Velit voluptatem dolor perspiciatis qui maiores id quasi et.",
+      "street": "4229 Lehner Crossroad",
+      "address": "Enchanting 4 bedrooms, 2 baths home with Recusandae fuga qui aut expedita molestiae et molestiae.",
       "features": [
         {
-          "key": "building",
+          "key": "room",
           "value": 5
         },
         {
           "key": "bed",
-          "value": 2
+          "value": 5
         },
         {
-          "key": "bath",
-          "value": 3
+          "key": "bathroom",
+          "value": 4
         },
         {
-          "key": "arrows-alt",
-          "value": 1895
+          "key": "area",
+          "value": 1281
         }
       ],
-      "rent": 2039
+      "rent": 2087
     },
     {
-      "id": "13",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
+      "id": "11",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070__340.jpg",
       "purpose": "For Rent",
       "tag": "popular",
-      "city": "Paris",
-      "street": "756 Hayes Tunnel",
-      "address": "Enchanting 1 bedroom, 2 baths home with Exercitationem minus ab excepturi est.",
+      "city": "London",
+      "street": "6727 Wisoky Land",
+      "address": "Enchanting 4 bedrooms, 1 bath home with Iure saepe iure.",
       "features": [
         {
-          "key": "building",
-          "value": 2
+          "key": "room",
+          "value": 4
         },
         {
           "key": "bed",
+          "value": 2
+        },
+        {
+          "key": "bathroom",
           "value": 3
         },
         {
-          "key": "bath",
-          "value": 3
+          "key": "area",
+          "value": 925
+        }
+      ],
+      "rent": 2077
+    },
+    {
+      "id": "12",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070__340.jpg",
+      "purpose": "For Rent",
+      "tag": "popular",
+      "city": "Paris",
+      "street": "631 Langworth Burgs",
+      "address": "Enchanting 3 bedrooms, 1 bath home with Aspernatur dolorum et cumque iusto iusto sed aut.",
+      "features": [
+        {
+          "key": "room",
+          "value": 1
         },
         {
-          "key": "arrows-alt",
-          "value": 1027
+          "key": "bed",
+          "value": 5
+        },
+        {
+          "key": "bathroom",
+          "value": 2
+        },
+        {
+          "key": "area",
+          "value": 1627
         }
       ],
       "rent": 1996
     },
     {
-      "id": "14",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
-      "tag": "popular",
-      "city": "London",
-      "street": "068 Tomas Spur",
-      "address": "Enchanting 1 bedroom, 1 bath home with Ullam nulla voluptates.",
-      "features": [
-        {
-          "key": "building",
-          "value": 1
-        },
-        {
-          "key": "bed",
-          "value": 3
-        },
-        {
-          "key": "bath",
-          "value": 4
-        },
-        {
-          "key": "arrows-alt",
-          "value": 750
-        }
-      ],
-      "rent": 1360
-    },
-    {
-      "id": "15",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Rent",
-      "tag": "popular",
-      "city": "Mumbai",
-      "street": "6373 Brianne Ramp",
-      "address": "Enchanting 5 bedrooms, 4 baths home with Possimus non repellendus.",
-      "features": [
-        {
-          "key": "building",
-          "value": 4
-        },
-        {
-          "key": "bed",
-          "value": 1
-        },
-        {
-          "key": "bath",
-          "value": 1
-        },
-        {
-          "key": "arrows-alt",
-          "value": 1753
-        }
-      ],
-      "rent": 2996
-    },
-    {
-      "id": "16",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
-      "tag": "popular",
-      "city": "New York",
-      "street": "2392 Oberbrunner Wells",
-      "address": "Enchanting 5 bedrooms, 4 baths home with Ex soluta expedita et quo.",
-      "features": [
-        {
-          "key": "building",
-          "value": 2
-        },
-        {
-          "key": "bed",
-          "value": 1
-        },
-        {
-          "key": "bath",
-          "value": 2
-        },
-        {
-          "key": "arrows-alt",
-          "value": 1946
-        }
-      ],
-      "rent": 2614
-    },
-    {
-      "id": "17",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
+      "id": "13",
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/31/00/30/vw-beetle-405876__340.jpg",
       "purpose": "For Rent",
       "tag": "popular",
       "city": "Paris",
-      "street": "137 Leuschke Plains",
-      "address": "Enchanting 1 bedroom, 3 baths home with Inventore omnis optio veniam laborum saepe aut consequatur.",
+      "street": "39072 Wisoky Rapids",
+      "address": "Enchanting 1 bedroom, 4 baths home with Officiis dolorem exercitationem sequi earum modi et sit mollitia.",
       "features": [
         {
-          "key": "building",
+          "key": "room",
           "value": 3
         },
         {
           "key": "bed",
-          "value": 3
-        },
-        {
-          "key": "bath",
-          "value": 4
-        },
-        {
-          "key": "arrows-alt",
-          "value": 1896
-        }
-      ],
-      "rent": 2171
-    },
-    {
-      "id": "18",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Rent",
-      "tag": "popular",
-      "city": "New York",
-      "street": "75954 Arianna Coves",
-      "address": "Enchanting 2 bedrooms, 2 baths home with Itaque quia cumque dignissimos aut necessitatibus.",
-      "features": [
-        {
-          "key": "building",
-          "value": 4
-        },
-        {
-          "key": "bed",
-          "value": 3
-        },
-        {
-          "key": "bath",
           "value": 2
         },
         {
-          "key": "arrows-alt",
-          "value": 1211
+          "key": "bathroom",
+          "value": 2
+        },
+        {
+          "key": "area",
+          "value": 1829
         }
       ],
-      "rent": 2912
+      "rent": 3489
     },
     {
-      "id": "19",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
+      "id": "14",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
       "purpose": "For Sale",
       "tag": "popular",
-      "city": "Mumbai",
-      "street": "02063 O'Keefe Forge",
-      "address": "Enchanting 1 bedroom, 1 bath home with Ex commodi fugiat optio et qui dolores vel.",
+      "city": "London",
+      "street": "759 Jaskolski Rest",
+      "address": "Enchanting 4 bedrooms, 1 bath home with Et in quia alias necessitatibus minus officia.",
       "features": [
         {
-          "key": "building",
+          "key": "room",
+          "value": 2
+        },
+        {
+          "key": "bed",
+          "value": 1
+        },
+        {
+          "key": "bathroom",
+          "value": 2
+        },
+        {
+          "key": "area",
+          "value": 1888
+        }
+      ],
+      "rent": 3780
+    },
+    {
+      "id": "15",
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/31/00/30/vw-beetle-405876__340.jpg",
+      "purpose": "For Sale",
+      "tag": "popular",
+      "city": "New York",
+      "street": "252 Thora Ramp",
+      "address": "Enchanting 3 bedrooms, 1 bath home with Aut non suscipit voluptatem sequi deleniti.",
+      "features": [
+        {
+          "key": "room",
+          "value": 4
+        },
+        {
+          "key": "bed",
+          "value": 1
+        },
+        {
+          "key": "bathroom",
+          "value": 2
+        },
+        {
+          "key": "area",
+          "value": 1868
+        }
+      ],
+      "rent": 2900
+    },
+    {
+      "id": "16",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "purpose": "For Rent",
+      "tag": "popular",
+      "city": "Paris",
+      "street": "20651 Sandra Vista",
+      "address": "Enchanting 4 bedrooms, 3 baths home with Consequatur fugiat facilis.",
+      "features": [
+        {
+          "key": "room",
           "value": 4
         },
         {
@@ -521,602 +437,686 @@
           "value": 5
         },
         {
-          "key": "bath",
+          "key": "bathroom",
+          "value": 4
+        },
+        {
+          "key": "area",
+          "value": 928
+        }
+      ],
+      "rent": 2580
+    },
+    {
+      "id": "17",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "purpose": "For Sale",
+      "tag": "popular",
+      "city": "Paris",
+      "street": "33570 Bruen Spurs",
+      "address": "Enchanting 5 bedrooms, 3 baths home with Odit sunt voluptate dolorem.",
+      "features": [
+        {
+          "key": "room",
+          "value": 3
+        },
+        {
+          "key": "bed",
+          "value": 5
+        },
+        {
+          "key": "bathroom",
+          "value": 1
+        },
+        {
+          "key": "area",
+          "value": 867
+        }
+      ],
+      "rent": 2407
+    },
+    {
+      "id": "18",
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/31/00/30/vw-beetle-405876__340.jpg",
+      "purpose": "For Rent",
+      "tag": "popular",
+      "city": "Paris",
+      "street": "91388 Bosco Rest",
+      "address": "Enchanting 1 bedroom, 3 baths home with Voluptatem voluptatem amet sint tempora voluptates expedita atque dolorum sunt.",
+      "features": [
+        {
+          "key": "room",
+          "value": 4
+        },
+        {
+          "key": "bed",
+          "value": 1
+        },
+        {
+          "key": "bathroom",
+          "value": 4
+        },
+        {
+          "key": "area",
+          "value": 1613
+        }
+      ],
+      "rent": 3434
+    },
+    {
+      "id": "19",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070__340.jpg",
+      "purpose": "For Sale",
+      "tag": "popular",
+      "city": "Mumbai",
+      "street": "06086 Damian Estates",
+      "address": "Enchanting 4 bedrooms, 3 baths home with Facere dolores tempora nulla sed odio.",
+      "features": [
+        {
+          "key": "room",
           "value": 2
         },
         {
-          "key": "arrows-alt",
-          "value": 1060
+          "key": "bed",
+          "value": 5
+        },
+        {
+          "key": "bathroom",
+          "value": 3
+        },
+        {
+          "key": "area",
+          "value": 1856
         }
       ],
-      "rent": 3476
+      "rent": 3100
     },
     {
       "id": "20",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Rent",
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/31/00/30/vw-beetle-405876__340.jpg",
+      "purpose": "For Sale",
       "tag": "popular",
       "city": "London",
-      "street": "225 Reilly Coves",
-      "address": "Enchanting 2 bedrooms, 3 baths home with Eaque sapiente omnis reiciendis veniam.",
+      "street": "8942 Parisian Vista",
+      "address": "Enchanting 2 bedrooms, 4 baths home with Ut laborum veniam.",
       "features": [
         {
-          "key": "building",
-          "value": 1
+          "key": "room",
+          "value": 2
         },
         {
           "key": "bed",
           "value": 3
         },
         {
-          "key": "bath",
-          "value": 3
+          "key": "bathroom",
+          "value": 1
         },
         {
-          "key": "arrows-alt",
-          "value": 657
+          "key": "area",
+          "value": 739
         }
       ],
-      "rent": 2788
+      "rent": 3232
     },
     {
       "id": "21",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070__340.jpg",
+      "purpose": "For Rent",
       "tag": "popular",
-      "city": "Mumbai",
-      "street": "0910 Kreiger Shore",
-      "address": "Enchanting 3 bedrooms, 2 baths home with Eveniet sunt autem in esse qui.",
+      "city": "New York",
+      "street": "347 Alex Spur",
+      "address": "Enchanting 5 bedrooms, 4 baths home with Aut laborum doloribus rem perspiciatis consequatur velit fuga.",
       "features": [
         {
-          "key": "building",
-          "value": 4
+          "key": "room",
+          "value": 5
         },
         {
           "key": "bed",
-          "value": 4
+          "value": 5
         },
         {
-          "key": "bath",
-          "value": 4
+          "key": "bathroom",
+          "value": 1
         },
         {
-          "key": "arrows-alt",
-          "value": 1353
+          "key": "area",
+          "value": 1852
         }
       ],
-      "rent": 2395
+      "rent": 2485
     },
     {
       "id": "22",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070__340.jpg",
       "purpose": "For Rent",
       "tag": "popular",
-      "city": "Mumbai",
-      "street": "33172 Mertie Hollow",
-      "address": "Enchanting 4 bedrooms, 4 baths home with Dolores labore maxime nihil ad repellat omnis voluptatem quia.",
+      "city": "London",
+      "street": "165 Natasha Crescent",
+      "address": "Enchanting 4 bedrooms, 2 baths home with Sequi alias quod quis perferendis fuga sit voluptatum.",
       "features": [
         {
-          "key": "building",
+          "key": "room",
           "value": 4
         },
         {
           "key": "bed",
-          "value": 4
+          "value": 5
         },
         {
-          "key": "bath",
+          "key": "bathroom",
           "value": 1
         },
         {
-          "key": "arrows-alt",
-          "value": 1736
+          "key": "area",
+          "value": 1919
         }
       ],
-      "rent": 1363
+      "rent": 1193
     },
     {
       "id": "23",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "purpose": "For Rent",
       "tag": "popular",
-      "city": "Mumbai",
-      "street": "456 Abshire Mews",
-      "address": "Enchanting 2 bedrooms, 2 baths home with Exercitationem soluta quia voluptatibus.",
+      "city": "Paris",
+      "street": "75556 Silas Circles",
+      "address": "Enchanting 5 bedrooms, 1 bath home with Quae omnis et aut et.",
       "features": [
         {
-          "key": "building",
+          "key": "room",
           "value": 4
         },
         {
           "key": "bed",
+          "value": 2
+        },
+        {
+          "key": "bathroom",
           "value": 1
         },
         {
-          "key": "bath",
-          "value": 1
-        },
-        {
-          "key": "arrows-alt",
-          "value": 1848
+          "key": "area",
+          "value": 1479
         }
       ],
-      "rent": 3230
+      "rent": 2628
     },
     {
       "id": "24",
       "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
+      "purpose": "For Rent",
       "tag": "popular",
-      "city": "New York",
-      "street": "255 Cruz Plaza",
-      "address": "Enchanting 3 bedrooms, 1 bath home with Saepe amet perspiciatis non vel quia fugit.",
+      "city": "Mumbai",
+      "street": "4573 Hagenes Locks",
+      "address": "Enchanting 4 bedrooms, 1 bath home with Exercitationem eveniet consequatur nihil error optio illum voluptas quo.",
       "features": [
         {
-          "key": "building",
-          "value": 2
+          "key": "room",
+          "value": 4
         },
         {
           "key": "bed",
+          "value": 4
+        },
+        {
+          "key": "bathroom",
           "value": 1
         },
         {
-          "key": "bath",
-          "value": 4
-        },
-        {
-          "key": "arrows-alt",
-          "value": 1999
+          "key": "area",
+          "value": 1400
         }
       ],
-      "rent": 1039
+      "rent": 3127
     },
     {
       "id": "25",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
       "purpose": "For Rent",
       "tag": "popular",
-      "city": "London",
-      "street": "38945 Pauline Islands",
-      "address": "Enchanting 4 bedrooms, 3 baths home with Et corporis perferendis id ea sed dolore quae ipsam quia.",
+      "city": "New York",
+      "street": "952 Grady Lights",
+      "address": "Enchanting 5 bedrooms, 1 bath home with Totam necessitatibus reprehenderit quia.",
       "features": [
         {
-          "key": "building",
+          "key": "room",
+          "value": 5
+        },
+        {
+          "key": "bed",
           "value": 4
+        },
+        {
+          "key": "bathroom",
+          "value": 1
+        },
+        {
+          "key": "area",
+          "value": 1539
+        }
+      ],
+      "rent": 2496
+    },
+    {
+      "id": "26",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070__340.jpg",
+      "purpose": "For Sale",
+      "tag": "popular",
+      "city": "London",
+      "street": "629 Joe Way",
+      "address": "Enchanting 5 bedrooms, 1 bath home with Inventore consequuntur explicabo distinctio et quam velit itaque qui.",
+      "features": [
+        {
+          "key": "room",
+          "value": 2
         },
         {
           "key": "bed",
           "value": 3
         },
         {
-          "key": "bath",
-          "value": 2
-        },
-        {
-          "key": "arrows-alt",
-          "value": 1501
-        }
-      ],
-      "rent": 3823
-    },
-    {
-      "id": "26",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
-      "tag": "popular",
-      "city": "New York",
-      "street": "435 Antone Ports",
-      "address": "Enchanting 5 bedrooms, 3 baths home with Voluptatem omnis accusantium repellat.",
-      "features": [
-        {
-          "key": "building",
-          "value": 2
-        },
-        {
-          "key": "bed",
+          "key": "bathroom",
           "value": 4
         },
         {
-          "key": "bath",
-          "value": 4
-        },
-        {
-          "key": "arrows-alt",
-          "value": 1661
+          "key": "area",
+          "value": 1528
         }
       ],
-      "rent": 2991
+      "rent": 4062
     },
     {
       "id": "27",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070__340.jpg",
       "purpose": "For Rent",
       "tag": "popular",
-      "city": "London",
-      "street": "116 Olson Plaza",
-      "address": "Enchanting 5 bedrooms, 4 baths home with Saepe omnis dolor reprehenderit molestiae sunt debitis nobis praesentium.",
+      "city": "New York",
+      "street": "5945 Monte Rapid",
+      "address": "Enchanting 5 bedrooms, 4 baths home with Quis ea debitis facilis ullam quidem recusandae voluptas perferendis.",
       "features": [
         {
-          "key": "building",
-          "value": 1
+          "key": "room",
+          "value": 4
         },
         {
           "key": "bed",
-          "value": 2
-        },
-        {
-          "key": "bath",
           "value": 1
         },
         {
-          "key": "arrows-alt",
-          "value": 1040
+          "key": "bathroom",
+          "value": 1
+        },
+        {
+          "key": "area",
+          "value": 761
         }
       ],
-      "rent": 1448
+      "rent": 4539
     },
     {
       "id": "28",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070__340.jpg",
+      "purpose": "For Rent",
       "tag": "popular",
       "city": "Mumbai",
-      "street": "370 Edward Spring",
-      "address": "Enchanting 2 bedrooms, 4 baths home with Quis expedita quas similique accusamus sequi exercitationem magnam.",
+      "street": "909 Hermiston Drive",
+      "address": "Enchanting 1 bedroom, 1 bath home with Consectetur placeat qui sed architecto dolor quibusdam ex beatae laudantium.",
       "features": [
         {
-          "key": "building",
-          "value": 2
+          "key": "room",
+          "value": 4
         },
         {
           "key": "bed",
           "value": 4
         },
         {
-          "key": "bath",
-          "value": 4
+          "key": "bathroom",
+          "value": 2
         },
         {
-          "key": "arrows-alt",
-          "value": 1225
+          "key": "area",
+          "value": 860
         }
       ],
-      "rent": 3086
+      "rent": 1006
     },
     {
       "id": "29",
       "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Rent",
+      "purpose": "For Sale",
       "tag": "popular",
-      "city": "Mumbai",
-      "street": "757 Oberbrunner Bypass",
-      "address": "Enchanting 5 bedrooms, 4 baths home with Sed et nulla voluptas fuga ex aut sequi nemo distinctio.",
+      "city": "Paris",
+      "street": "025 Patsy Burgs",
+      "address": "Enchanting 3 bedrooms, 3 baths home with Ut sapiente ut architecto.",
       "features": [
         {
-          "key": "building",
-          "value": 1
-        },
-        {
-          "key": "bed",
-          "value": 4
-        },
-        {
-          "key": "bath",
+          "key": "room",
           "value": 3
         },
         {
-          "key": "arrows-alt",
-          "value": 968
+          "key": "bed",
+          "value": 3
+        },
+        {
+          "key": "bathroom",
+          "value": 4
+        },
+        {
+          "key": "area",
+          "value": 1135
         }
       ],
-      "rent": 2581
+      "rent": 3624
     },
     {
       "id": "30",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
       "purpose": "For Rent",
       "tag": "popular",
-      "city": "Paris",
-      "street": "319 Buckridge Terrace",
-      "address": "Enchanting 1 bedroom, 4 baths home with Nihil debitis et inventore ut doloribus fugiat vitae doloribus.",
+      "city": "London",
+      "street": "0220 Hahn Crossroad",
+      "address": "Enchanting 4 bedrooms, 4 baths home with Aut sit qui assumenda deserunt sed possimus beatae aut.",
       "features": [
         {
-          "key": "building",
-          "value": 1
-        },
-        {
-          "key": "bed",
-          "value": 1
-        },
-        {
-          "key": "bath",
+          "key": "room",
           "value": 2
         },
         {
-          "key": "arrows-alt",
-          "value": 567
+          "key": "bed",
+          "value": 2
+        },
+        {
+          "key": "bathroom",
+          "value": 2
+        },
+        {
+          "key": "area",
+          "value": 1414
         }
       ],
-      "rent": 2354
+      "rent": 1437
     },
     {
       "id": "31",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
       "purpose": "For Sale",
       "tag": "popular",
       "city": "Mumbai",
-      "street": "09136 Jeffrey Skyway",
-      "address": "Enchanting 4 bedrooms, 4 baths home with Saepe accusantium aperiam eum.",
+      "street": "236 Crooks Wall",
+      "address": "Enchanting 1 bedroom, 2 baths home with Porro doloribus corporis nulla quo ut.",
       "features": [
         {
-          "key": "building",
-          "value": 4
+          "key": "room",
+          "value": 5
         },
         {
           "key": "bed",
           "value": 1
         },
         {
-          "key": "bath",
+          "key": "bathroom",
           "value": 2
         },
         {
-          "key": "arrows-alt",
-          "value": 1853
+          "key": "area",
+          "value": 1289
         }
       ],
-      "rent": 4215
+      "rent": 4961
     },
     {
       "id": "32",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Rent",
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/31/00/30/vw-beetle-405876__340.jpg",
+      "purpose": "For Sale",
       "tag": "popular",
-      "city": "New York",
-      "street": "0558 Emard Freeway",
-      "address": "Enchanting 5 bedrooms, 4 baths home with Libero debitis velit illum quaerat sed repudiandae.",
+      "city": "Paris",
+      "street": "68564 Gerlach Canyon",
+      "address": "Enchanting 2 bedrooms, 4 baths home with Id reprehenderit illum recusandae dolorem iusto molestiae repudiandae.",
       "features": [
         {
-          "key": "building",
+          "key": "room",
           "value": 1
         },
         {
           "key": "bed",
-          "value": 4
+          "value": 5
         },
         {
-          "key": "bath",
+          "key": "bathroom",
           "value": 1
         },
         {
-          "key": "arrows-alt",
-          "value": 673
+          "key": "area",
+          "value": 1961
         }
       ],
-      "rent": 1023
+      "rent": 1365
     },
     {
       "id": "33",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "purpose": "For Rent",
       "tag": "popular",
-      "city": "London",
-      "street": "88795 Jaleel Extension",
-      "address": "Enchanting 4 bedrooms, 4 baths home with Voluptatem ut beatae accusamus.",
+      "city": "Mumbai",
+      "street": "570 McGlynn Islands",
+      "address": "Enchanting 5 bedrooms, 1 bath home with Autem nesciunt animi harum.",
       "features": [
         {
-          "key": "building",
+          "key": "room",
           "value": 3
         },
         {
           "key": "bed",
-          "value": 1
-        },
-        {
-          "key": "bath",
           "value": 3
         },
         {
-          "key": "arrows-alt",
-          "value": 1911
+          "key": "bathroom",
+          "value": 1
+        },
+        {
+          "key": "area",
+          "value": 1811
         }
       ],
-      "rent": 3483
+      "rent": 2821
     },
     {
       "id": "34",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
       "purpose": "For Sale",
       "tag": "popular",
       "city": "London",
-      "street": "521 Swaniawski Spring",
-      "address": "Enchanting 5 bedrooms, 1 bath home with Fugiat quas rerum.",
+      "street": "39188 Shyann Highway",
+      "address": "Enchanting 1 bedroom, 4 baths home with Fugiat rerum soluta aperiam debitis quas vel.",
       "features": [
         {
-          "key": "building",
-          "value": 4
-        },
-        {
-          "key": "bed",
-          "value": 1
-        },
-        {
-          "key": "bath",
+          "key": "room",
           "value": 3
         },
         {
-          "key": "arrows-alt",
-          "value": 676
+          "key": "bed",
+          "value": 5
+        },
+        {
+          "key": "bathroom",
+          "value": 4
+        },
+        {
+          "key": "area",
+          "value": 1699
         }
       ],
-      "rent": 3465
+      "rent": 2558
     },
     {
       "id": "35",
       "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
-      "tag": "popular",
-      "city": "Paris",
-      "street": "1051 Oberbrunner Mall",
-      "address": "Enchanting 2 bedrooms, 3 baths home with Iusto et dolorem quis aliquam adipisci autem quaerat.",
-      "features": [
-        {
-          "key": "building",
-          "value": 4
-        },
-        {
-          "key": "bed",
-          "value": 5
-        },
-        {
-          "key": "bath",
-          "value": 1
-        },
-        {
-          "key": "arrows-alt",
-          "value": 1660
-        }
-      ],
-      "rent": 4728
-    },
-    {
-      "id": "36",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
-      "tag": "popular",
-      "city": "New York",
-      "street": "373 Bella Village",
-      "address": "Enchanting 2 bedrooms, 2 baths home with Qui aut atque eius est nobis iure doloribus ut.",
-      "features": [
-        {
-          "key": "building",
-          "value": 5
-        },
-        {
-          "key": "bed",
-          "value": 5
-        },
-        {
-          "key": "bath",
-          "value": 2
-        },
-        {
-          "key": "arrows-alt",
-          "value": 1242
-        }
-      ],
-      "rent": 1892
-    },
-    {
-      "id": "37",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
-      "tag": "popular",
-      "city": "London",
-      "street": "2009 Christiansen Extensions",
-      "address": "Enchanting 5 bedrooms, 2 baths home with Qui ullam mollitia enim in.",
-      "features": [
-        {
-          "key": "building",
-          "value": 3
-        },
-        {
-          "key": "bed",
-          "value": 2
-        },
-        {
-          "key": "bath",
-          "value": 4
-        },
-        {
-          "key": "arrows-alt",
-          "value": 1850
-        }
-      ],
-      "rent": 1348
-    },
-    {
-      "id": "38",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
-      "tag": "popular",
-      "city": "London",
-      "street": "5291 Bernhard Meadows",
-      "address": "Enchanting 1 bedroom, 2 baths home with Numquam officia laborum maxime eos quod.",
-      "features": [
-        {
-          "key": "building",
-          "value": 1
-        },
-        {
-          "key": "bed",
-          "value": 1
-        },
-        {
-          "key": "bath",
-          "value": 3
-        },
-        {
-          "key": "arrows-alt",
-          "value": 1000
-        }
-      ],
-      "rent": 4113
-    },
-    {
-      "id": "39",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
-      "purpose": "For Sale",
-      "tag": "popular",
-      "city": "Paris",
-      "street": "13687 Jack Freeway",
-      "address": "Enchanting 3 bedrooms, 2 baths home with Iste et iusto non error a laboriosam officia tempora.",
-      "features": [
-        {
-          "key": "building",
-          "value": 1
-        },
-        {
-          "key": "bed",
-          "value": 1
-        },
-        {
-          "key": "bath",
-          "value": 4
-        },
-        {
-          "key": "arrows-alt",
-          "value": 921
-        }
-      ],
-      "rent": 2553
-    },
-    {
-      "id": "40",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271__340.jpg",
       "purpose": "For Rent",
       "tag": "popular",
       "city": "London",
-      "street": "66204 Brown Rapids",
-      "address": "Enchanting 4 bedrooms, 2 baths home with Delectus ex nisi in et fuga et illo dolores.",
+      "street": "35607 Drew Mall",
+      "address": "Enchanting 4 bedrooms, 3 baths home with Ad corrupti tempora.",
       "features": [
         {
-          "key": "building",
+          "key": "room",
+          "value": 3
+        },
+        {
+          "key": "bed",
+          "value": 3
+        },
+        {
+          "key": "bathroom",
+          "value": 3
+        },
+        {
+          "key": "area",
+          "value": 783
+        }
+      ],
+      "rent": 4247
+    },
+    {
+      "id": "36",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070__340.jpg",
+      "purpose": "For Sale",
+      "tag": "popular",
+      "city": "Mumbai",
+      "street": "48026 Russel Falls",
+      "address": "Enchanting 5 bedrooms, 4 baths home with Laborum vel incidunt vel maxime consequatur dignissimos ut rerum deserunt.",
+      "features": [
+        {
+          "key": "room",
+          "value": 3
+        },
+        {
+          "key": "bed",
+          "value": 5
+        },
+        {
+          "key": "bathroom",
+          "value": 3
+        },
+        {
+          "key": "area",
+          "value": 1062
+        }
+      ],
+      "rent": 1376
+    },
+    {
+      "id": "37",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "purpose": "For Sale",
+      "tag": "popular",
+      "city": "Mumbai",
+      "street": "25661 Schmitt Garden",
+      "address": "Enchanting 1 bedroom, 3 baths home with Optio atque sit commodi.",
+      "features": [
+        {
+          "key": "room",
+          "value": 2
+        },
+        {
+          "key": "bed",
+          "value": 3
+        },
+        {
+          "key": "bathroom",
+          "value": 2
+        },
+        {
+          "key": "area",
+          "value": 1760
+        }
+      ],
+      "rent": 1455
+    },
+    {
+      "id": "38",
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/31/00/30/vw-beetle-405876__340.jpg",
+      "purpose": "For Rent",
+      "tag": "popular",
+      "city": "New York",
+      "street": "443 Keeling Walks",
+      "address": "Enchanting 1 bedroom, 4 baths home with Ex occaecati ipsa autem.",
+      "features": [
+        {
+          "key": "room",
           "value": 1
         },
         {
           "key": "bed",
-          "value": 4
+          "value": 3
         },
         {
-          "key": "bath",
+          "key": "bathroom",
+          "value": 2
+        },
+        {
+          "key": "area",
+          "value": 1060
+        }
+      ],
+      "rent": 3669
+    },
+    {
+      "id": "39",
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/07/31/00/30/vw-beetle-405876__340.jpg",
+      "purpose": "For Rent",
+      "tag": "popular",
+      "city": "New York",
+      "street": "517 Langworth Neck",
+      "address": "Enchanting 2 bedrooms, 4 baths home with Ut deserunt possimus suscipit.",
+      "features": [
+        {
+          "key": "room",
+          "value": 3
+        },
+        {
+          "key": "bed",
+          "value": 5
+        },
+        {
+          "key": "bathroom",
           "value": 1
         },
         {
-          "key": "arrows-alt",
-          "value": 1367
+          "key": "area",
+          "value": 1159
         }
       ],
-      "rent": 3686
+      "rent": 1369
+    },
+    {
+      "id": "40",
+      "imageUrl": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "purpose": "For Rent",
+      "tag": "popular",
+      "city": "New York",
+      "street": "0789 Brandt Drive",
+      "address": "Enchanting 4 bedrooms, 3 baths home with Delectus doloribus ut.",
+      "features": [
+        {
+          "key": "room",
+          "value": 5
+        },
+        {
+          "key": "bed",
+          "value": 3
+        },
+        {
+          "key": "bathroom",
+          "value": 1
+        },
+        {
+          "key": "area",
+          "value": 722
+        }
+      ],
+      "rent": 1496
     }
   ]

@@ -1,25 +1,45 @@
 import React, { useState } from "react";
 import PropertyCard from "./PropertyCard";
 import properties from "../assets/data.json";
+import Tab from "./Tab";
 
 function PropertyLists() {
   const [visibleProperties, setVisibleProperties] = useState(3);
+  const [activeTab, setActiveTab] = useState("Mumbai");
+
+  const cities = ["Mumbai", "New York", "Paris", "London"];
 
   const loadMoreProperties = () => {
     setVisibleProperties((prevVisible) => prevVisible + 3);
   };
 
+  const filterProperties = () => {
+    return properties
+      .filter((property) => property.city === activeTab)
+      .slice(0, visibleProperties);
+  };
+
+  const handleTabClick = (tab) => {
+    setActiveTab(tab);
+    setVisibleProperties(3); // Reset visible properties when switching tabs
+  };
+
   return (
-    <div className="property-list">
-      <div class="property-card-container">
-        {properties.slice(0, visibleProperties).map((property) => (
-          <PropertyCard key={property.id} property={property} />
-        ))}
+    <>
+      <Tab tabs={cities} activeTab={activeTab} onTabClick={handleTabClick} />
+      <div className="property-list">
+        <div className="property-card-container">
+          {filterProperties().map((property) => (
+            <PropertyCard key={property.id} property={property} />
+          ))}
+        </div>
+        {visibleProperties < properties.length && (
+          <button className="showMore-btn" onClick={loadMoreProperties}>
+            <i className="fa fa-hourglass-end" aria-hidden="true"></i> Show More
+          </button>
+        )}
       </div>
-      {visibleProperties < properties.length && (
-        <button onClick={loadMoreProperties}>Show More</button>
-      )}
-    </div>
+    </>
   );
 }
 
