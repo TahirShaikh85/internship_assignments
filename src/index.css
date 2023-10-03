@@ -1,0 +1,6 @@
+:root{
+    --primary-color:#f2d7ff;
+    --secondary-color:#e8b7ff;
+    --active-tab-color:#ae00ff;
+}
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Poppins&display=swap');
