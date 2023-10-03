@@ -1,8 +1,27 @@
-# React + Vite
+# Seller App (Property)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was assigned by Stazi Technology Pvt Ltd and submitted by Tahir Shaikh.
 
-Currently, two official plugins are available:
+## 🎥 Watch the Demo
+You can watch a working demo of this project by clicking on the following link:
+[Demo Video](https://www.loom.com/share/0d24f18866ff4c2780381b3ca14afbe2?sid=247377bc-cbb9-4f02-b68f-1ccf59a3b376)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React
+- Pure CSS
+
+## How to Run the Project Locally
+
+To run this project on your local machine, follow these steps:
+
+1. Clone this repository.
+   ```shell
+   git clone <repository-url>
+2.  Navigate to the project directory.
+3.  Install the project dependencies.
+   
+   npm install
+   
+4.  Start the development server.
+   
+ npm run dev
