@@ -1,7 +1,8 @@
 import React, { useState } from "react";
-import PropertyCard from "./PropertyCard";
+import PropertyCard from "../components/PropertyCard";
 import properties from "../assets/data.json";
-import Tab from "./Tab";
+import Tab from "../components/Tab";
+import Header from "../components/Header";
 
 function PropertyLists() {
   const [visibleProperties, setVisibleProperties] = useState(3);
@@ -26,6 +27,7 @@ function PropertyLists() {
 
   return (
     <>
+    <Header/>
       <Tab tabs={cities} activeTab={activeTab} onTabClick={handleTabClick} />
       <div className="property-list">
         <div className="property-card-container">

@@ -1,9 +1,14 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 
 const PropertyCard = ({ property }) => {
+  const navigate = useNavigate()
+  const handleNavigation = ()=>{
+    navigate(`/property/${property.id}`)
+  }
   return (
     <div className="box" key={property.id}>
-      <div className="top">
+      <div className="top" onClick={handleNavigation}>
         <img src={property.imageUrl} alt={property.street} height="229px" />
         <span>
           <i className="fa fa-heart-o"></i>
